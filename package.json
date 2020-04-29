@@ -1,6 +1,11 @@
 {
-  "name": "root",
+  "name": "blitz",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Chandresh Rajkumar Manonmani <cs1193@gmail.com>",
+  "license": "UNLICENSED",
   "private": true,
+  "preferGlobal": false,
   "devDependencies": {
     "lerna": "^3.20.2",
     "lerna-dependency-graph": "^1.0.2"
