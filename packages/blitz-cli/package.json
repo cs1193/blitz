@@ -1,5 +1,5 @@
 {
-  "name": "blitz-cli",
+  "name": "@cs1193/blitz-cli",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "Chandresh Rajkumar Manonmani <cs1193@gmail.com>",
@@ -10,7 +10,7 @@
     "lib": "lib"
   },
   "bin": {
-    "blitz": "./bin/index.js"
+    "blitz": "bin/index.js"
   },
   "files": [
     "lib"
