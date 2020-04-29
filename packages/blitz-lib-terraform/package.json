@@ -1,0 +1,25 @@
+{
+  "name": "blitz-lib-terraform",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Chandresh Rajkumar Manonmani <cs1193@gmail.com>",
+  "homepage": "https://github.com/cs1193/blitz/tree/master/packages/blitz-lib-terraform#readme",
+  "license": "UNLICENSED",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs1193/blitz.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/cs1193/blitz/issues"
+  }
+}
