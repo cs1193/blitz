@@ -1,16 +1,14 @@
 {
-  "name": "@cs1193/blitz-cli",
+  "name": "@cs1193/blitz-lib-aws",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "Chandresh Rajkumar Manonmani <cs1193@gmail.com>",
-  "homepage": "https://github.com/cs1193/blitz#readme",
+  "homepage": "https://github.com/cs1193/blitz/tree/master/packages/blitz-lib-aws#readme",
   "license": "UNLICENSED",
   "main": "lib/index.js",
   "directories": {
-    "lib": "lib"
-  },
-  "bin": {
-    "blitz": "bin/index.js"
+    "lib": "lib",
+    "test": "__tests__"
   },
   "files": [
     "lib"
@@ -24,16 +22,5 @@
   },
   "bugs": {
     "url": "https://github.com/cs1193/blitz/issues"
-  },
-  "dependencies": {
-    "chalk": "^4.0.0",
-    "cli-table3": "^0.6.0",
-    "columnify": "^1.5.4",
-    "conf": "^6.2.4",
-    "listr": "^0.14.3",
-    "lodash": "^4.17.15",
-    "ora": "^4.0.4",
-    "update-notifier": "^4.1.0",
-    "yargs": "^15.3.1"
   }
 }
