@@ -23,8 +23,10 @@
     "url": "https://github.com/cs1193/blitz/issues"
   },
   "dependencies": {
+    "@cs1193/blitz-lib-aws": "file:../blitz-lib-aws",
     "@cs1193/blitz-lib-cloud-azure": "file:../blitz-lib-cloud-azure",
     "@cs1193/blitz-lib-docker": "file:../blitz-lib-docker",
+    "@cs1193/blitz-lib-gcp": "file:../blitz-lib-gcp",
     "@cs1193/blitz-lib-terraform": "file:../blitz-lib-terraform"
   }
 }
