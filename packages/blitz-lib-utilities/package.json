@@ -1,14 +1,13 @@
 {
-  "name": "@cs1193/blitz-lib-gcp",
+  "name": "@cs1193/blitz-lib-utilities",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "Chandresh Rajkumar Manonmani <cs1193@gmail.com>",
-  "homepage": "https://github.com/cs1193/blitz/tree/master/packages/blitz-lib-gcp#readme",
+  "homepage": "https://github.com/cs1193/blitz/tree/master/packages/blitz-lib-utilities#readme",
   "license": "UNLICENSED",
   "main": "lib/index.js",
   "directories": {
-    "lib": "lib",
-    "test": "__tests__"
+    "lib": "lib"
   },
   "files": [
     "lib"
