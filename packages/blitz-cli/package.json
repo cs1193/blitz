@@ -31,7 +31,7 @@
     "columnify": "^1.5.4",
     "conf": "^6.2.4",
     "listr": "^0.14.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "ora": "^4.0.4",
     "update-notifier": "^4.1.0",
     "yargs": "^15.3.1"
